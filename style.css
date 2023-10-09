@@ -1,0 +1,47 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/gradient-connection-background_52683-116652.jpg?w=740&t=st=1693301463~exp=1693302063~hmac=f2b4c15af865c18f38d50c200baa324d321b66409d7d370e3e3a904cd69b1369');
+   
+}
+
+@font-face {
+    font-family: special;
+    src: url('./AbrilFatface-Regular.ttf');
+}
+
+#h1 {
+    padding-top: 40px;
+    color:red;
+    font-family: special;
+    text-shadow: 2px 2px 2px black;
+    font-weight: bolder;
+    word-spacing: 7px;
+    letter-spacing: 2px;
+    font-size: 40px;
+    border: 1px 1px solid rgb(22, 9, 134) !important;
+    text-align: center;
+
+}
+
+
+
+input{
+    width: 100% !important;
+    margin-top: 10px;
+
+    
+    
+    
+}
+.main{
+    background-color: whitesmoke;
+    box-shadow: inset 0px 0px 15px black;
+    width: 300px;
+    height: 400px;
+    margin-top: 12%;
+    border-radius: 20px;
+}
+
+#para{
+    color: red;
+    font-weight: 700;
+}
